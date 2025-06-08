@@ -1,0 +1,1 @@
+-e "node_modules/\n.env\n*.log\n.DS_Store\n__pycache__/" 
