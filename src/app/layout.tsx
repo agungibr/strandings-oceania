@@ -50,8 +50,11 @@ export default function RootLayout({
         <footer className="bg-white/90 backdrop-blur-sm shadow-lg mt-8 relative z-10">
           <div className="max-w-7xl mx-auto py-6 px-4 sm:px-6 lg:px-8">
             <p className="text-center text-gray-600">
-              © {new Date().getFullYear()} Strandings of Oceania Project. 
-              A collaboration between SPWRC and SPREP.
+              © {new Date().getFullYear()} Strandings of Oceania Project.
+              Pacific Data Challenge. 
+            </p>
+            <p className="text-center text-gray-600">
+              Created by Fito Satrio, Agung Malik, and Brian Nugraha.
             </p>
           </div>
         </footer>
